@@ -206,7 +206,7 @@ Interest rate will be added - if applicable - through the PATCH-route:<br>
 - The application recognizes patterns that indicate fraud and freezes the account status when potential fraud is detected.
 
 ### Database diagram
-![Database diagram](../../MIDTERM/src/main/resources/Midtermproject_database_diagram.png)
+![Database diagram](https://github.com/ludhsruiz/MidTermProject-/blob/main/src/main/resources/Midtermproject_database_diagram.png)
 
 
 
